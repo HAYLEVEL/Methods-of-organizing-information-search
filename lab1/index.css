@@ -1,0 +1,24 @@
+body {
+    background-color: #ffffff;
+}
+
+.subsection {
+    margin-bottom: 3rem;
+}
+
+input {
+    display: block;
+    margin: 1rem 0 1.5rem;
+    padding: 0.5rem;
+    width: 30%;
+}
+
+.result-section {
+    display: none;
+}
+
+.button {
+    padding: 6px 10px;
+    background-color: #4f5450;
+    color: white;
+}
